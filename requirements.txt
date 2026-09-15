@@ -1,0 +1,2 @@
+numpy==2.3.5
+PyAudioWPatch==0.2.12.8
